@@ -71,4 +71,4 @@ Build a Random User App using ReactJS.
 
 - You can add additional functionalities and design to your app.
 
-# **<p align="center">&#9786; Happy Coding &#9997;</p>**
+### **<p align="center">&#9786; Happy Coding &#9997;</p>**
